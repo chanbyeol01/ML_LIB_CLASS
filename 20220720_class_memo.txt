@@ -1,0 +1,16 @@
+
+
+--- Pandas 2가지의 자료형
+Series : 1차원
+DataFrame : 2차원
+
+--- Series는 인덱스 정보를 가지고 있다.
+Series vs list
+
+-> 인덱스 ()
+-> 날짜
+
+--- Series에 파라미터
+인덱스 지정하는 파라미터
+dat = Series ([1, 2, 3, 4], index = __, columns=[----])
+
